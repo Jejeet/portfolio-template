@@ -1,0 +1,26 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    margin:0 4rem;
+}
+.navlist ul {
+    display: flex;
+    padding-top: 1.2rem;
+    
+}
+.navlist li{
+    list-style-type: none;
+    padding-right: 1rem;
+}
+.contact-signIn{
+    padding-top: 1.2rem;
+    border-left: 1px solid gray;
+    background-color:whitesmoke;
+    display: flex;
+}
+.nav-drop{
+    margin-left:3.5rem;
+}
+.nav-drop img{
+    padding-right: 1.2rem;
+}
